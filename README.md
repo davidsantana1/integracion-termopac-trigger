@@ -4,4 +4,4 @@
 
 1. Instalar SQLite en el sistema
 2. Ejecutar `sqlite3 termopac.db`
-3. Pegar cada uno de los comandos SQL en la consola de SQLite
+3. Pegar cada uno de los comandos SQL de `setup.sql` en la consola de SQLite
